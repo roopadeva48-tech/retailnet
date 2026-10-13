@@ -1,0 +1,6 @@
+{
+  "name": "RetailNet Studio - Retail Wireless & Protocols Lab",
+  "description": "Interactive network architecture simulator and protocol analyzer modeling Wi-Fi, DNS, and HTTP/HTTPS communications for modern retail stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
