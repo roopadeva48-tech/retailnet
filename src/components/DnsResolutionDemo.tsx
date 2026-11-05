@@ -73,10 +73,10 @@ export const DnsResolutionDemo: React.FC = () => {
       <div className="p-5 rounded-xl bg-slate-900/80 border border-slate-800">
         <h2 className="text-xl font-bold tracking-tight text-white flex items-center gap-2">
           <Globe className="w-5 h-5 text-indigo-400" />
-          DNS Name Resolution Interactive Simulator
+          DNS Name Resolution Simulator
         </h2>
         <p className="text-xs text-slate-400 mt-1 max-w-3xl leading-relaxed">
-          The Domain Name System (RFC 1035) translates human-readable store service addresses into routable IP addresses. Experience the hierarchical query traversal from Client OS cache &rarr; Recursive Resolver &rarr; Root (.) &rarr; TLD &rarr; Authoritative Name Servers.
+          The Domain Name System ) translates human-readable store service addresses into routable IP addresses. Experience the hierarchical query traversal from Client OS cache &rarr; Recursive Resolver &rarr; Root (.) &rarr; TLD &rarr; Authoritative Name Servers.
         </p>
       </div>
 
